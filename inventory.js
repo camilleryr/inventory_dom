@@ -1,0 +1,1 @@
+const HomeInventory = JSON.parse(localStorage.getItem("homeInventory"))
