@@ -1,0 +1,45 @@
+.furniture {
+    background-color: lightgoldenrodyellow;
+}
+
+.instrument {
+    background-color: lightcoral;
+}
+
+.memory {
+    background-color: lightcyan;
+}
+
+.Storage_Nook {
+    border: solid 5px black;
+}
+
+.Guest_Bedroom {
+    border: solid 5px red;
+    
+}
+
+.Living_Room {
+    border: solid 5px blue;
+    
+}
+
+.Master_Bath {
+    border: solid 5px orange;
+    
+}
+
+.Kitchen {
+    border: solid 5px green;
+    
+}
+
+.Master_Bedroom {
+    border: solid 5px black;
+    
+}
+
+.HomeInventory {
+    margin: 20px 0;
+    text-align: center;
+}
